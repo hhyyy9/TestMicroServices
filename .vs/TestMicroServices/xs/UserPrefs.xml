@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{2EEB9286-67EB-4EB0-B355-F12749A20DCB}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.AuthAPI/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="Mango.Services.AuthAPI/Models/ApplicationUser.cs" Line="9" Column="1" />
+      <File FileName="Mango.Services.AuthAPI/Data/AppDbContext.cs" Line="22" Column="1" />
+      <File FileName="Mango.Services.AuthAPI/Program.cs" Line="13" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestMicroServices" expanded="True">
+            <Node name="FrontEnd" expanded="True" />
+            <Node name="Services" expanded="True">
+              <Node name="Mango.Services.AuthAPI" expanded="True" selected="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Migrations" expanded="True" />
+                <Node name="Models" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.AuthAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{D6EB8A97-1D70-449A-B377-56F712332FF1}" ItemName="Mango.Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Mango.Service.CouponAPI/Mango.Services.AuthAPI/Mango.Services.AuthAPI.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.FrontEnd.Mango.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
