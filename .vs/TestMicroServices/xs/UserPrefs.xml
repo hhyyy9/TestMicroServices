@@ -1,25 +1,21 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.ProductAPI/Data/AppDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mango.Services.ProductAPI/Controllers/ProductAPIController.cs">
     <Files>
-      <File FileName="Mango.Services.ProductAPI/Data/AppDbContext.cs" Line="7" Column="29" />
+      <File FileName="Mango.Services.CouponAPI/Controllers/CouponAPIController.cs" />
+      <File FileName="Mango.Services.ProductAPI/Controllers/ProductAPIController.cs" Line="17" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TestMicroServices">
-            <Node name="FrontEnd" expanded="True" />
             <Node name="Services" expanded="True">
               <Node name="Mango.Services.CouponAPI" expanded="True">
                 <Node name="Controllers" expanded="True" />
-                <Node name="Extensions" expanded="True" />
               </Node>
-              <Node name="Mango.Services.ProductAPI">
-                <Node name="Data">
-                  <Node name="AppDbContext.cs" selected="True" />
-                </Node>
-                <Node name="Models" expanded="True">
-                  <Node name="Dtos" expanded="True" />
+              <Node name="Mango.Services.ProductAPI" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="ProductAPIController.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -30,7 +26,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.ProductAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.Services.Mango.Services.AuthAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
