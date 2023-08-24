@@ -1,7 +1,0 @@
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.csproj.AssemblyReference.cache
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.AssemblyInfoInputs.cache
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.AssemblyInfo.cs
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.csproj.CoreCompileInputs.cache
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cs
-/Users/jackyhuang/Projects/DotNetProjects/TestMicroServices/Mango.Service.CouponAPI/Mango.Services.AuthAPI/obj/Debug/net7.0/Mango.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cache
