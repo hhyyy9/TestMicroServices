@@ -1,7 +1,7 @@
-using AutoMapper;
-using Mango.Service.CouponAPI;
-using Mango.Service.CouponAPI.Data;
-using Mango.Services.CouponAPI.Extensions;
+﻿using AutoMapper;
+using Mango.Service.ProductAPI;
+using Mango.Service.ProductAPI.Data;
+using Mango.Services.ProductAPI.Extensions;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -50,8 +50,6 @@ builder.Services.AddSwaggerGen(option =>
 builder.AddAppAuthetication();
 builder.Services.AddAuthorization();
 
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -68,7 +66,6 @@ app.UseAuthorization();
 app.MapControllers();
 ApplyMigration();
 app.Run();
-
 
 void ApplyMigration()
 {
